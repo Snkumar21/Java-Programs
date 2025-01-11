@@ -1,3 +1,7 @@
+//This is a inheritance example of Java Langauge.
+//Animals is the parent class.
+//Dog and Cat are the child classes.
+
 class animals {
     void displayProperties() {
 		System.out.println("All are domestic animals and all have four legs and one tail.");
