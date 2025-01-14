@@ -1,3 +1,5 @@
+//This is code of Area of Rectangle
+
 import java.util.Scanner;
 
 class area_rectangle
