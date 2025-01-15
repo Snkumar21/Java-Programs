@@ -1,3 +1,4 @@
+//This is Bicycle Code of Java
 import java.util.Scanner;
 
 class bicycle{
