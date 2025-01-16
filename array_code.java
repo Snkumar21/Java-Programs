@@ -1,3 +1,4 @@
+//Array Code of Java
 import java.util.Scanner;
 
 class array_code{
