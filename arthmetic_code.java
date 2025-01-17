@@ -1,3 +1,5 @@
+//Arithmetic Program of Java Program
+
 class arthmetic_code{
 	public static void main(String Args[]){
 		int a,b;
