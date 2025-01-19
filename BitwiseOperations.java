@@ -1,3 +1,4 @@
+//Bitwise Operation in Java Language using Switch Statements.
 import java.util.Scanner;
 
 public class BitwiseOperations {
