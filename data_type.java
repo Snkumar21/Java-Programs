@@ -1,3 +1,4 @@
+//All Data Types of Java Language.
 class data_type {
  
 	public static void main(String Args[]){
