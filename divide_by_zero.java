@@ -1,14 +1,12 @@
+//Arithemtic Exception in Java Program
 class divide_by_zero {
     
     	int divide(int x, int y)
 	{
-        	/*int res=x/y;
-        	return res;*/
-        	
 		try
 		{
-            		int res=x/y;
-            		return (res);
+            		int res = x / y; //Conditon
+            		return (res); //Return the value
         	}
 	        catch(ArithmeticException e)
 		{
@@ -22,7 +20,6 @@ class divide_by_zero {
         	DividebyZero d= new DividebyZero();
         	int result=d.divide(25,0);
         	
-		//Exception occurs as y=0
         	if(result!= -1)
 		{
 	 	       	System.out.println("Result= "+result);
