@@ -1,10 +1,9 @@
+//This is a else-if java code using user defined.
 import java.util.Scanner;
-
-class elseif_code{
-	public static void main(String Args[]){
+class elseif_code {
+	public static void main(String Args[]) {
 	
 		int number;
-
 		Scanner uInput = new Scanner(System.in);
 		
 		System.out.println("Enter an number: ");
@@ -13,12 +12,11 @@ class elseif_code{
         	if (number < 0) {
             		System.out.println("The number is Negative");
         	}
-		else if(number > 0){
+		else if(number > 0) {
         		System.out.println("The number is Positive");
 		}
 		else {
         		System.out.println("The number is ZERO");
 		}
-
 	}
 }
