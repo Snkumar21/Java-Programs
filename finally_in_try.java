@@ -1,4 +1,5 @@
-public class FinallyinTry
+//This is a finally code using try-catch block in java.
+public class finally_in_try
 {
     public static void main(String[] args) 
 	{
