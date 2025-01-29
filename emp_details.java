@@ -46,7 +46,7 @@ class Employee extends Person
     	}
 }
 
-public class Emp_details {
+public class emp_details {
     	public static void main(String[] args) 
 	{
         
