@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class FirstOccurrenceIndex {
+public class first_Occurrence_Index {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
