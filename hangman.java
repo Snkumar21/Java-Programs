@@ -1,6 +1,7 @@
+// This is a Hangman Game using Java language.
 import java.util.Scanner;
 
-public class Hangman {
+public class hangman {
     public static void main(String[] args) {
         String[] words = {"java", "hangman", "computer", "programming", "game"};
         String wordToGuess = words[(int) (Math.random() * words.length)];
