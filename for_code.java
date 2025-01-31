@@ -1,3 +1,4 @@
+// For loop code in java using pre-defiend function.
 class for_code{
 	public static void main(String Args[]){
 
