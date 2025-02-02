@@ -1,3 +1,4 @@
+//This is a hierarchical class program for calculating the Areas of Rectangle and Triangle using Java.
 import java.util.Scanner;
 
 class shape
