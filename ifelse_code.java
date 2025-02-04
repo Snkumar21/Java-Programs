@@ -1,7 +1,7 @@
+//This is if-else Condition code of java using User defined value.
 import java.util.Scanner;
 
 class ifelse_code{
-	@SuppressWarnings("resource")
 	public static void main(String Args[]){
 	
 		int number;
