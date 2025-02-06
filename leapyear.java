@@ -9,7 +9,7 @@ class leapyear {
 		System.out.println("Enter the year : ");
 		int year = obj.nextInt();
 		
-		if(year%4==0)
+		if(year % 400 == 0)
 		{
 			System.out.println("Leap Year");
 		}else{
