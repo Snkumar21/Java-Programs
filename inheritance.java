@@ -1,3 +1,5 @@
+//This is a Inheritance program in java
+
 class child extends parent {
 	int n2 = 20;
 
