@@ -1,8 +1,8 @@
+// This is a leap year code using user defined structure in java.
 import java.util.Scanner;
 
-class leapyear{
-	@SuppressWarnings("resource")
-	public static void main(String Args[]){
+class leapyear {
+	public static void main(String Args[]) {
 	
 		Scanner obj = new Scanner(System.in);
 		
