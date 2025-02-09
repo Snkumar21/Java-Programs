@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LastOccurrence {
+public class last_occurrence {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
