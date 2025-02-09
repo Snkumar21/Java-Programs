@@ -1,3 +1,4 @@
+// This is a Hierarchical Class of a Vechicle using pre-defined value in java.
 class vehicle
 {	
     void display(){
