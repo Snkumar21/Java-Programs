@@ -36,7 +36,6 @@ class Square {
 }
 
 public class main{
-	@SuppressWarnings("unused")
     public static void main(String[] Args) {
 	
 	//No Argument
