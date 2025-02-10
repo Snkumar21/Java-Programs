@@ -1,4 +1,5 @@
-class methodOverloading2 {
+// This is an another example of the MethodOverloading.
+class methodOverloadingExample {
 		
 		public static void main(String Args[])
 		{
