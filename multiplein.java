@@ -1,3 +1,4 @@
+// This is a Inheritance classes of the java.
 class Cat
 {
     void says(){
