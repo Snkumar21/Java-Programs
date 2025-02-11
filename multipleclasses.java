@@ -1,3 +1,4 @@
+// This program is designed for multiple classes in a single program of java.
 class Circle{
     double x,y;//coordinates of centre
     double r;
@@ -23,7 +24,7 @@ class Rectangle{
         return s*s;
     }
 }
-class Multipleclasses{
+class multipleclasses{
     public static void main(String Args[]) {
         Circle c = new Circle(0.0,0.0,3.0);
         Rectangle rect = new Rectangle(5.0);
