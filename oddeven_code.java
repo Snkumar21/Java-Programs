@@ -1,3 +1,4 @@
+// This is ODD-EVEN finder code of java using user-defined value.
 import java.util.Scanner;
 
 class oddeven_code {
