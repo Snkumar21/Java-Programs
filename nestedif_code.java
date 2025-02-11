@@ -1,8 +1,8 @@
+// This is a Nested Loop Code using user-defined value in java.
 import java.util.Scanner;
 
-class nestedif_code{
-	@SuppressWarnings("resource")
-	public static void main(String Args[]){
+class nestedif_code {
+	public static void main(String Args[]) {
 	
 		int number;
 
@@ -12,10 +12,10 @@ class nestedif_code{
         	number = uInput.nextInt();
 
         	if (number <= 10) {
-			if(number < 0){
+			if (number < 0) {
 	            		System.out.println("The number is negative");
 			}
-			else{
+			else {
 				System.out.println("The number is smaller than 10");
 			}
         	}
