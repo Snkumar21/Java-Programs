@@ -1,5 +1,6 @@
-class oddeven_dowhileloop{
-	public static void main(String Args[]){
+// This is odd-even code using do-while Loop in java.
+class oddeven_dowhileloop {
+	public static void main(String Args[]) {
 	
 		int i = 1;
 		
