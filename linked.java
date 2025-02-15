@@ -1,3 +1,4 @@
+// This is linked-list code of java using node functionality.
 class First {
     int data;
     First next;
