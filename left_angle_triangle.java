@@ -1,4 +1,5 @@
-public class left_angle_triangle {
+// Triangle-Pattern printing code using java using defined value of the rows.
+class left_angle_triangle {
     public static void main(String Args[]) {
         int rows = 5;
 
