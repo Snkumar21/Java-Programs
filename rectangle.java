@@ -1,10 +1,11 @@
-class Rectangle {
+// This is a rectangle area calculator using user-defined value.
+class rectangle {
     
     int length;
     int width;
 
     
-    public Rectangle(int length, int width) {
+    public rectangle(int length, int width) {
         this.length = length;
         this.width = width;
     }
@@ -16,7 +17,7 @@ class Rectangle {
 
     public static void main(String[] args) {
         
-        Rectangle rectangle = new Rectangle(5, 10);
+        rectangle rectangle = new rectangle(5, 10);
 
         
         int area = rectangle.calculateArea();
