@@ -1,3 +1,6 @@
+// This ODD-EVEN Code using while Loop.
+// This will print all ODD-EVEN Numbers from 1 to 100.
+
 class oddeven_whileloop{
 	public static void main(String Args[]){
 	
