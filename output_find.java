@@ -1,8 +1,9 @@
+// This is multiple code in a single program with compiled output.
 class output_find
 {
 	public static void main(String[] Args)
 	{
-		/*int a = 1, b = 2, c = 3;
+		int a = 1, b = 2, c = 3;
 
 		1. if(6<2*5)
 		{
@@ -95,6 +96,6 @@ class output_find
 		{
 			System.out.println("#*#");
 		}
-		Answer :- No Output*/
+		Answer :- No Output
 	}
 }
