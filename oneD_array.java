@@ -1,4 +1,4 @@
-
+// This is One-Dimensional Array Code using pre-defined value in the box.
 class oneD_array{
 	public static void main(String Args[]){
 
