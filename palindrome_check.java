@@ -1,6 +1,7 @@
+// This is a palindrome checker code using user-defined value.
 import java.util.Scanner;
 
-public class PalindromeCheck {
+public class palindrome_check {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
