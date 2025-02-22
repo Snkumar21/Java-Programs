@@ -1,7 +1,7 @@
+// How to scan a code in java.
 import java.util.Scanner;
 
 class scanner_code{
-    @SuppressWarnings("resource")
     public static void main(String Args[]){
 
         Scanner uInput = new Scanner(System.in);
