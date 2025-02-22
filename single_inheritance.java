@@ -1,4 +1,5 @@
-class Person{
+// Single Inheritance program of displaying values of a student.
+class person {
     
     String name;
     int mobileno;
@@ -13,7 +14,7 @@ class Person{
     }
 }
 
-class Student extends Person{
+class student extends person{
     
     int rollno;
     String classname;
@@ -31,11 +32,11 @@ class Student extends Person{
     }
 }
 
-public class SingleInheritance {
+public class single_inheritance {
     public static void main(String[] args) {
         
-        Person p = new Person();
-        Student s = new Student();
+        person p = new person();
+        student s = new student();
         
         s.acceptdata("ABC", 999);
         s.displaydata();
