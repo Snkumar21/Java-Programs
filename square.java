@@ -1,8 +1,9 @@
-class Square {
+// This is example of square finder of the given user-defined value.
+class square {
    
     int side;
 
-    public Square() {
+    public square() {
         side = 5;
     }
 
@@ -12,7 +13,7 @@ class Square {
 
     public static void main(String[] args) {
        
-        Square square = new Square();
+        square square = new square();
 
         square.displaySide();
     }
