@@ -1,6 +1,7 @@
+// Example of boolean check on start and end
 import java.util.Scanner;
 
-public class StartsEndsCheck {
+public class starts_ends_check {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
