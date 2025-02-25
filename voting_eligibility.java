@@ -1,4 +1,5 @@
-public class VotingEligibility {
+// Example of checking voting eligibility using Test Cases.
+class voting_eligibility {
     public static void main(String[] args) {
 
         int age1 = 19; 
