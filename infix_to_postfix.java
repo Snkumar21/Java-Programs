@@ -1,3 +1,4 @@
+// Infix to Postfix example using integer value in java data structure algorithm.
 import java.util.Stack;
 
 public class infix_to_postfix {
