@@ -1,6 +1,7 @@
+// Example of string operations in java.
 import java.util.Scanner;
 
-class StringOperations 
+class string_operations 
 {
     	public static void main(String[] args) 
 	{
