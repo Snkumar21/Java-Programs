@@ -1,3 +1,4 @@
+// Example of String Operations in java.
 class stringprgn{
 	public static void main(String Args[]){
 		
