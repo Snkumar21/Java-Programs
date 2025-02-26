@@ -1,4 +1,4 @@
-
+// Example of Anagram String in java.
 import java.util.Scanner;
 
 public class string_anagram {
