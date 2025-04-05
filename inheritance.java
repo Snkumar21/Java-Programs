@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class child extends parent {
 	int n2 = 20;
 
@@ -27,3 +28,36 @@ class inheritance {
 		p.displayp();
 	}
 }
+=======
+//This is a Inheritance program in java
+
+class child extends parent {
+	int n2 = 20;
+
+	void displayc()
+	{
+		System.out.println("In child " + n1 + " " + n2);
+	}
+}
+	
+class parent {
+	int n1 = 10;
+
+	void displayp()
+	{
+		System.out.println("In Parent");
+	}
+}
+
+class inheritance {
+	public static void main(String Args[])
+	{
+		child c = new child();
+		parent p = new parent();
+
+		c.displayp();
+		c.displayc();
+		p.displayp();
+	}
+}
+>>>>>>> 3b91145e87f179c688b01060e6f387c287eacd71
