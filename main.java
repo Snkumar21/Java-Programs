@@ -1,5 +1,5 @@
 class CourseName {
-    public CourseName() {
+    public void Course_Name() {
         System.out.println("You are in the CourseName constructor.");
     }
 }
@@ -9,13 +9,11 @@ class Rectangle {
     int length;
     int width;
 
-    
     public Rectangle(int length, int width) {
         this.length = length;
         this.width = width;
     }
 
-    
     public int calculateArea() {
         return length * width;
     }
@@ -38,18 +36,18 @@ class Square {
 public class main {
     public static void main(String[] Args) {
 	
-	//No Argument
-	CourseName course = new CourseName();
+        //No Argument
+        CourseName course = new CourseName();
+            course.Course_Name();
 
-	//Parameterized
-	Rectangle rectangle = new Rectangle(5, 10);
+        //Parameterized
+        Rectangle rectangle = new Rectangle(5, 10);
 
-        int area = rectangle.calculateArea();
-        System.out.println("The area of the rectangle is: " + area);
+            int area = rectangle.calculateArea();
+            System.out.println("The area of the rectangle is: " + area);
 
-	//Default
+        //Default
         Square square = new Square();
-
-        square.displaySide();
+            square.displaySide();
     }
 }

@@ -1,6 +1,7 @@
 // This program is designed for multiple classes in a single program of java.
 class Circle{
-    double x,y;//coordinates of centre
+    @SuppressWarnings("unused")
+    double x, y; //coordinates of centre
     double r;
     Circle(double x1,double y1, double r1){
         x=x1;

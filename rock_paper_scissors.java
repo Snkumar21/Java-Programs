@@ -14,15 +14,12 @@ public class rock_paper_scissors {
             System.out.println("2. Two Player Game");
             int gameMode = scanner.nextInt();
             scanner.nextLine(); // Consume the newline character after nextInt()
-            
-            if (gameMode == 1) {
-                // Play against the computer
-                playWithComputer(scanner, random);
-            } else if (gameMode == 2) {
-                // Play two-player game
-                playTwoPlayer(scanner);
-            } else {
-                System.out.println("Invalid choice. Please restart the game.");
+            switch (gameMode) {
+                case 1 -> // Play against the computer
+                    playWithComputer(scanner, random);
+                case 2 -> // Play two-player game
+                    playTwoPlayer(scanner);
+                default -> System.out.println("Invalid choice. Please restart the game.");
             }
         }
     }
