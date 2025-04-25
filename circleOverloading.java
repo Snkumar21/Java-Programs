@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-//Circle Overloading
-
-class circleOverloading
-{
-	public static void main(String Args[])
-	{
-	}
-	
-}
-=======
 //Circle Overloading Java Program
-
 class circleOverloading
 {
 	public static void main(String Args[])
@@ -30,4 +18,3 @@ class circleOverloading
 		}
 	}
 }
->>>>>>> 3b91145e87f179c688b01060e6f387c287eacd71
