@@ -24,7 +24,7 @@ class Rectangle{
         return s*s;
     }
 }
-class multipleclasses{
+public class multipleclasses {
     public static void main(String Args[]) {
         Circle c = new Circle(0.0,0.0,3.0);
         Rectangle rect = new Rectangle(5.0);

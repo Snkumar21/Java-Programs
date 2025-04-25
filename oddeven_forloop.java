@@ -1,24 +1,5 @@
-<<<<<<< HEAD
-class oddeven_forloop{
-	public static void main(String Args[]){
-	
-		for( int i=1; i<=100; i++)
-		{
-			if(i%2==0)
-			{
-				System.out.println("The number is even " + i);
-			}
-			else	
-			{
-				System.out.println("The number is odd " + i);
-			}
-		}
-	}
-}
-=======
 // This is a ODD-EVEN Code using For Loop.
 // It will print all ODD-EVEN from 1 to 100 numbers.
-
 class oddeven_forloop{
 	public static void main(String Args[]){
 	
@@ -35,4 +16,3 @@ class oddeven_forloop{
 		}
 	}
 }
->>>>>>> 3b91145e87f179c688b01060e6f387c287eacd71

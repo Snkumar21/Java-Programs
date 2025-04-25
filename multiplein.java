@@ -9,6 +9,7 @@ class Cat
 class PetCat extends Cat
 {	
 	// type of a cat
+    @Override
     void says()
 	{
         System.out.println("Meow Meow!!");
@@ -28,9 +29,7 @@ class MagicCat extends Cat
         }
     }
 }
-
-class multiplein
-{
+public class multiplein {
     public static void main(String[] args) 
 	{
         PetCat c1= new PetCat();
